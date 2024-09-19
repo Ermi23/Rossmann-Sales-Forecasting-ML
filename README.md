@@ -9,9 +9,6 @@ This project aims to develop an end-to-end machine learning solution for forecas
 - [Usage](#usage)
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
