@@ -3,3 +3,4 @@ Matplotlib
 Scikit-learn
 TensorFlow
 Flask
+seaborn
