@@ -15,25 +15,25 @@ This project aims to develop an end-to-end machine learning solution for forecas
 
 ## Project Structure
 
-/RossmannSalesForecast
-├── .vscode/
-│   └── settings.json
-├── .github/
-│   └── workflows
-│       ├── unittests.yml
-├── .gitignore
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── data/ # Data files
-├── src/
-│   ├── __init__.py
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-│   ├── __init__.py
-│   └── README.md
-├── tests/
-│   ├── __init__.py
+- /RossmannSalesForecast
+- ├── .vscode/
+- │   └── settings.json
+- ├── .github/
+- │   └── workflows
+- │       ├── unittests.yml
+- ├── .gitignore
+- ├── requirements.txt # Python dependencies
+- ├── README.md # Project documentation
+- ├── data/ # Data files
+- ├── src/
+- │   - ├── __init__.py
+- ├── notebooks/ # Jupyter notebooks for analysis and modeling
+- │   - ├── __init__.py
+- │   └── README.md
+- ├── tests/
+- │   - ├── __init__.py
 └── scripts/ # Source code for data processing and modeling
-    ├── __init__.py
+    - ├── __init__.py
     └── README.md
 
 
