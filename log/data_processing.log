@@ -1,0 +1,164 @@
+2024-09-20 11:12:36,994:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 11:12:50,903:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 11:12:51,888:INFO:Generating bar chart for promo distribution comparison between train and test sets.
+2024-09-20 11:13:01,110:INFO:Generating line plot for sales behavior before, during, and after holidays.
+2024-09-20 11:13:03,860:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:03,872:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:03,978:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:03,984:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:04,714:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:04,720:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:06,917:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:06,925:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:45,055:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:45,674:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:47,008:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:47,251:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:49,067:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:49,928:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:13:56,269:INFO:Handling missing values for Assortment: Filled with mode value.
+2024-09-20 11:13:56,890:INFO:Handling missing values for CompetitionDistance: Filled with mean value.
+2024-09-20 11:23:56,782:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 11:39:23,708:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 11:51:12,582:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 11:51:13,636:INFO:Generating bar chart for promo distribution comparison between train and test sets.
+2024-09-20 11:51:24,200:INFO:Generating line plot for sales behavior before, during, and after holidays.
+2024-09-20 11:51:26,854:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:26,861:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:26,975:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:26,981:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:27,774:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:27,782:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:29,841:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:29,849:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:54,971:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:55,404:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:56,091:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:56,239:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:57,070:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:51:57,578:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 11:52:01,062:INFO:Handling missing values for Assortment: Filled with mode value.
+2024-09-20 11:52:01,534:INFO:Handling missing values for CompetitionDistance: Filled with mean value.
+2024-09-20 14:51:41,328:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 14:53:31,207:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 14:54:17,197:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 14:54:27,493:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 14:55:54,607:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 14:56:26,556:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 15:20:54,792:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 15:31:04,919:INFO:Merging train_data with store_data to get both CompetitionDistance and StoreType information
+2024-09-20 15:31:05,160:INFO:Focusing on store types more likely to be in city centers (e.g., "b" and "c")
+2024-09-20 15:31:05,218:INFO:Calculating average sales by CompetitionDistance category for urban stores
+2024-09-20 15:33:55,869:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 15:33:56,086:INFO:Check distribution of promotions in both datasets
+2024-09-20 15:33:56,766:INFO:Generating bar chart for promo distribution comparison between train and test sets.
+2024-09-20 15:34:39,753:INFO:Convert Date column to datetime
+2024-09-20 15:34:39,840:INFO:Create Holiday flag where StateHoliday is not 0
+2024-09-20 15:34:40,074:INFO:Shift dates to create before and after holiday flags
+2024-09-20 15:34:40,084:INFO:Define a function to categorize the period
+2024-09-20 15:34:40,084:INFO:Apply categorization to create a new column
+2024-09-20 15:34:46,894:INFO:Group by the holiday period and calculate average sales
+2024-09-20 15:34:46,980:INFO:Plot sales trends
+2024-09-20 15:34:47,093:INFO:Generating line plot for sales behavior before, during, and after holidays.
+2024-09-20 15:36:41,730:INFO:Extract the month from the Date column
+2024-09-20 15:36:41,775:INFO:Group sales by month to analyze seasonal trends
+2024-09-20 15:36:41,800:INFO:Plot seasonal sales trends
+2024-09-20 15:39:12,646:INFO:Filter data for holidays
+2024-09-20 15:39:12,712:INFO:Group by the StateHoliday column to calculate average sales during each type of holiday
+2024-09-20 15:39:12,726:INFO:Plot the sales by holiday type
+2024-09-20 15:39:15,824:INFO:Calculate the correlation between Sales and Customers
+2024-09-20 15:39:15,863:INFO:Scatter plot to visualize the relationship between Sales and Customers
+2024-09-20 15:39:20,774:INFO:Group by Promo and calculate the average sales and customers for stores with and without promo
+2024-09-20 15:39:20,824:INFO:Plot the effect of promotions on sales and customers
+2024-09-20 15:39:20,842:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:39:20,847:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:39:20,953:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:39:20,958:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:40:33,884:INFO:Group by Store and Promo to see the effect of promotions per store
+2024-09-20 15:40:33,975:INFO:Pivot table to show difference in sales with and without promo for each store
+2024-09-20 15:40:33,979:INFO:ind stores where promos are not effective
+2024-09-20 15:40:33,981:INFO:Plot to visualize Promo Effect Across Stores
+2024-09-20 15:41:23,891:INFO:Find stores that are always open on weekdays
+2024-09-20 15:41:23,989:INFO:Group by DayOfWeek and Store to calculate average sales on weekdays and weekends
+2024-09-20 15:41:24,242:INFO:Separate weekday and weekend sales
+2024-09-20 15:41:24,287:INFO:Plot sales trends on weekdays vs. weekends
+2024-09-20 15:41:24,308:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:41:24,313:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:41:26,614:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:41:26,622:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:35,807:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-20 15:45:36,027:INFO:Check distribution of promotions in both datasets
+2024-09-20 15:45:36,727:INFO:Generating bar chart for promo distribution comparison between train and test sets.
+2024-09-20 15:45:36,742:INFO:Convert Date column to datetime
+2024-09-20 15:45:36,839:INFO:Create Holiday flag where StateHoliday is not 0
+2024-09-20 15:45:37,116:INFO:Shift dates to create before and after holiday flags
+2024-09-20 15:45:37,127:INFO:Define a function to categorize the period
+2024-09-20 15:45:37,128:INFO:Apply categorization to create a new column
+2024-09-20 15:45:46,543:INFO:Group by the holiday period and calculate average sales
+2024-09-20 15:45:46,650:INFO:Plot sales trends
+2024-09-20 15:45:46,830:INFO:Generating line plot for sales behavior before, during, and after holidays.
+2024-09-20 15:45:46,847:INFO:Extract the month from the Date column
+2024-09-20 15:45:46,909:INFO:Group sales by month to analyze seasonal trends
+2024-09-20 15:45:46,956:INFO:Plot seasonal sales trends
+2024-09-20 15:45:47,190:INFO:Filter data for holidays
+2024-09-20 15:45:47,295:INFO:Group by the StateHoliday column to calculate average sales during each type of holiday
+2024-09-20 15:45:47,314:INFO:Plot the sales by holiday type
+2024-09-20 15:45:47,528:INFO:Calculate the correlation between Sales and Customers
+2024-09-20 15:45:47,567:INFO:Scatter plot to visualize the relationship between Sales and Customers
+2024-09-20 15:45:50,775:INFO:Group by Promo and calculate the average sales and customers for stores with and without promo
+2024-09-20 15:45:50,811:INFO:Plot the effect of promotions on sales and customers
+2024-09-20 15:45:50,822:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:50,826:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:50,928:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:50,932:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:51,051:INFO:Group by Store and Promo to see the effect of promotions per store
+2024-09-20 15:45:51,146:INFO:Pivot table to show difference in sales with and without promo for each store
+2024-09-20 15:45:51,151:INFO:ind stores where promos are not effective
+2024-09-20 15:45:51,153:INFO:Plot to visualize Promo Effect Across Stores
+2024-09-20 15:45:51,308:INFO:Find stores that are always open on weekdays
+2024-09-20 15:45:51,385:INFO:Group by DayOfWeek and Store to calculate average sales on weekdays and weekends
+2024-09-20 15:45:51,595:INFO:Separate weekday and weekend sales
+2024-09-20 15:45:51,645:INFO:Plot sales trends on weekdays vs. weekends
+2024-09-20 15:45:51,675:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:51,681:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:54,226:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:45:54,235:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:18,354:INFO:Calculate average weekday sales (Mon-Fri)
+2024-09-20 15:46:18,437:INFO:Calculate average weekend sales (Sat-Sun)
+2024-09-20 15:46:18,471:INFO:Merge the two tables
+2024-09-20 15:46:18,474:INFO:Calculate difference between weekday and weekend sales
+2024-09-20 15:46:18,474:INFO:Display the tabular comparison
+2024-09-20 15:46:18,960:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:19,361:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:20,060:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:20,214:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:21,108:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:21,642:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 15:46:25,048:INFO:Merge train_data with store_data to get Assortment information
+2024-09-20 15:46:25,244:INFO:Calculate average sales by Assortment type
+2024-09-20 15:46:25,296:INFO:Display the average sales by assortment type
+2024-09-20 15:46:25,297:INFO:Plot the results
+2024-09-20 15:46:25,413:INFO:Handling missing values for Assortment: Filled with mode value.
+2024-09-20 15:46:25,423:INFO:Merge train_data with store_data to get CompetitionDistance information
+2024-09-20 15:46:25,632:INFO:Bin the CompetitionDistance into categories for easier analysis
+2024-09-20 15:46:25,653:INFO:Calculate average sales by CompetitionDistance category
+2024-09-20 15:46:25,667:INFO:Display the results
+2024-09-20 15:46:25,670:INFO:plot the average sales by competition distance category
+2024-09-20 15:46:25,826:INFO:Handling missing values for CompetitionDistance: Filled with mean value.
+2024-09-20 15:46:25,839:INFO:Merging train_data with store_data to get both CompetitionDistance and StoreType information
+2024-09-20 15:46:25,982:INFO:Focusing on store types more likely to be in city centers (e.g., "b" and "c")
+2024-09-20 15:46:26,048:INFO:Calculating average sales by CompetitionDistance category for urban stores
+2024-09-20 15:46:26,053:INFO:Displaying the results for urban stores
+2024-09-20 15:46:26,054:INFO:Plotting the results for urban stores
+2024-09-20 15:46:26,222:INFO:Convert competition open year and month to a datetime format
+2024-09-20 15:46:26,226:INFO:Merge competition open date with train_data
+2024-09-20 15:46:26,427:INFO:Calculate the difference between the sale date and competition open date
+2024-09-20 15:46:26,496:INFO:Filter out stores with valid competition data and calculate the effect
+2024-09-20 15:46:26,512:INFO:Group by the time since competition opened to observe trends in sales
+2024-09-20 15:46:26,518:INFO:Plot the impact of competitor openings on sales
+2024-09-20 15:46:26,690:INFO:analyzing impact of opening or reopening of new competitors on stores
+2024-09-20 15:46:28,964:INFO:Investigating assortment type on sales...
+2024-09-20 15:48:05,882:INFO:Investigating assortment type on sales...
+2024-09-20 15:49:18,570:INFO:Investigating assortment type on sales...
+2024-09-20 15:50:43,123:INFO:Investigating assortment type on sales...
+2024-09-20 15:57:41,352:INFO:Analyzing correlation between sales and number of customers...
