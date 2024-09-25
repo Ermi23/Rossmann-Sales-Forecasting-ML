@@ -4,3 +4,4 @@ Scikit-learn
 TensorFlow
 Flask
 seaborn
+joblib
