@@ -1,0 +1,35 @@
+2024-09-22 10:13:16,067:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-23 13:32:25,601:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-23 13:34:40,350:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-23 13:49:45,784:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-23 14:31:03,829:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-23 14:31:03,945:INFO:Show missing data.
+2024-09-23 14:31:04,413:INFO:COnvert the data column to datetime format and extract useful features.
+2024-09-23 14:31:04,617:INFO:wncode catagorical variables
+2024-09-23 14:31:04,809:INFO:Merge datasets
+2024-09-23 14:31:04,901:INFO:Handle NAN
+2024-09-23 14:31:04,944:INFO:Filling missing values.
+2024-09-23 14:31:05,907:INFO:scaling features.
+2024-09-23 14:31:06,267:INFO:Setting up machine learning pipline.
+2024-09-23 14:53:08,209:INFO:Train Model.
+2024-09-23 14:53:21,642:INFO:Evaluate the model.
+2024-09-23 14:54:27,035:INFO:Serialize the model.
+2024-09-24 13:56:56,988:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-24 15:02:05,813:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-24 19:29:12,139:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-25 09:42:41,381:INFO:Loading train_data, test_data, store_data, and sample_submission_data.
+2024-09-25 09:42:41,596:INFO:Show missing data.
+2024-09-25 09:42:42,042:INFO:COnvert the data column to datetime format and extract useful features.
+2024-09-25 09:42:42,205:INFO:wncode catagorical variables
+2024-09-25 09:42:42,394:INFO:Merge datasets
+2024-09-25 09:42:42,491:INFO:Handle NAN
+2024-09-25 09:42:42,517:INFO:Filling missing values.
+2024-09-25 09:42:43,502:INFO:scaling features.
+2024-09-25 09:42:44,116:INFO:Setting up machine learning pipline.
+2024-09-25 10:02:09,555:INFO:Train Model.
+2024-09-25 10:02:38,163:INFO:Evaluate the model.
+2024-09-25 10:02:53,381:INFO:Serialize the model.
+2024-09-25 10:12:20,962:INFO:Top 5 important features: Index(['Store', 'Promo', 'StoreType_d_True', 'CompetitionDistance',
+       'Customers'],
+      dtype='object')
+2024-09-25 10:13:52,740:INFO:Serialize the model.
